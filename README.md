@@ -24,7 +24,7 @@ Our work proposes an integrated computational framework for automated classifica
 - 🧬 **Evolutionary Feature Selection** — Block-constrained Genetic Algorithm (GA) operating at the anatomical region level
 - 🤖 **Supervised Classification** — Naive Bayes, SVM (Linear/RBF), and Multilayer Perceptron architectures
 
-The proposed framework achieved a peak diagnostic accuracy of **78.00%** using a 3-layer MLP with only **4 anatomical structures** (96 radiomic features), consistently highlighting left-hemisphere structures as the most discriminative biomarkers.
+The proposed framework achieved a peak diagnostic accuracy of **77.27%** using a 3-layer MLP with only **4 anatomical structures** (96 radiomic features), consistently highlighting left-hemisphere structures as the most discriminative biomarkers.
 
 ---
 
