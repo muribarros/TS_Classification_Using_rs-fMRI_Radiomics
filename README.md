@@ -94,7 +94,7 @@ Classification performance across all models using 5-Fold Stratified Cross-Valid
 | Naive Bayes | Caudate (L,R), Lat. OFC (L), Sup. Parietal (L,R) | 5 | 120 | 71.21% |
 | SVM (Linear) | Accumbens (L), Lat. OFC (L), Thalamus (L,R), Ventral DC (R) | 5 | 120 | 72.73% |
 | SVM (RBF) | Accumbens (L), Caudate (L,R), Lat. OFC (L) | 4 | 96 | 72.73% |
-| **MLP (3 layers)** | **Accumbens (L), Caudate (L,R), Thalamus (L)** | **4** | **96** | **78.00%** |
+| **MLP (3 layers)** | **Accumbens (L), Caudate (L,R), Thalamus (L)** | **4** | **96** | **77.27%** |
 | MLP (4 layers) | Accumbens (L), Lat. OFC (L), Med. OFC (R), Caudate (R), Ventral DC (L,R) | 6 | 144 | 71.21% |
 | MLP (5 layers) | Accumbens (L), Med. OFC (L), Putamen (L), Ventral DC (R) | 4 | 96 | 72.73% |
 
